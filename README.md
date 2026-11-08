@@ -1,6 +1,6 @@
 # Hi, I'm George Oluoch
 
-**Economics & Statistics Graduate | Aspiring Data Analyst | Business Intelligence Enthusiast**
+**Aspiring Data Analyst | Business Intelligence Enthusiast**
 
 I'm an Economics and Statistics graduate from the University of Nairobi, interested in using data to understand business problems, uncover meaningful insights, and support better decision-making.
 
